@@ -27,8 +27,8 @@ Let’s start with something fun: a typeface-pairing game.
      - Name: Roboto
      - URL: https://fonts.google.com/specimen/Roboto
    Typeface Two:
-     - Name: Open Sans
-     - URL: https://fonts.google.com/specimen/Open+Sans
+     - Name: Poppins
+     - URL: https://fonts.google.com/specimen/Poppins
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
